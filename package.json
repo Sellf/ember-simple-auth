@@ -1,6 +1,7 @@
 {
   "name": "ember-simple-auth-meta",
   "author": "Marco Otte-Witte",
+  "version": "0.8.0",
   "license": "MIT",
   "devDependencies": {
     "grunt": "^0.4.4",
